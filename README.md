@@ -1,6 +1,6 @@
 # LinkedIn Members Scraper
 
-This is a mini Selenium automation project that logs into LinkedIn, searches for profiles with the keyword "Hospitals", scrapes names, and saves them to a CSV file. It also captures a screenshot of the results page.
+This is a mini Selenium automation project that logs into LinkedIn, searches for profiles with the keyword "Hospitals", scrapes names.
 
 ## 🚀 Features
 - Automated login to LinkedIn
